@@ -41,9 +41,5 @@ SEED_PHRASE="your seed phrase here"
 npm run start
 ```
 
-\*pastikan udah install node js
+\*make sure nodejs installed <<<<<<
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
