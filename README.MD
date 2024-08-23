@@ -17,8 +17,8 @@ SOL :
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/Mnuralim/bot-sonic-sol.git
-cd bot-sonic-sol
+git clone https://github.com/E1eng/Bot-auto-send
+cd bot-auto-send
 ```
 
 ### 2. Instal Dependensi
